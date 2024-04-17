@@ -171,7 +171,7 @@ var cnItems = {
     "brew blood flasks": "酿造血瓶",
     "buy your first reactor": "购买你的第一个反应器",
     "Decrease blood brewing time by 10s (only new added flasks)": "血液冲泡时间减少10秒（仅限新添加的烧瓶）",
-    "Decrease slime brewing time by 25% (only new added flasks)": "将史莱姆酿造时间减少 25%（仅限新添加的烧瓶）",
+    "Decrease slime brewing time by 25% (only new added flasks)": "将粘液酿造时间减少 25%（仅限新添加的烧瓶）",
     "Enable the ability to store fluids in flasks": "能够在烧瓶中储存液体",
     "kill the frog 20% faster": "杀死青蛙的速度加快 20%",
     "slime flasks will be generated automatically, if the queue is empty": "如果队列为空，粘液烧瓶将自动生成",
