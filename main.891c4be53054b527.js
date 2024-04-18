@@ -37291,9 +37291,9 @@
             switch (this.item.name) {
               case "eterunalslime":
               case "blood":
-                return "assets/img/my/38.PNG";
+                return "assets/img/my/38.png";
             }
-            return "assets/img/my/38.PNG";
+            return "assets/img/my/38.png";
           }
           static #e = (this.ɵfac = function (i) {
             return new (i || e)();
@@ -53936,13 +53936,13 @@
           getDungeonTypeImg(t) {
             switch (t) {
               case So.slime:
-                return "emerald_06.PNG";
+                return "emerald_06.png";
               case So.blood:
                 return "r_19.png";
               case So.water:
-                return "blue_28.PNG";
+                return "blue_28.png";
             }
-            return "emerald_06.PNG";
+            return "emerald_06.png";
           }
           static #e = (this.ɵfac = function (i) {
             return new (i || e)(M(Ki));
@@ -53978,7 +53978,7 @@
               [1, "fa", "fa-gift"],
               [1, "fa", "fa-square"],
               ["src", "assets/img/my/SGI_89.png"],
-              ["src", "assets/img/my/yellow_26.PNG"],
+              ["src", "assets/img/my/yellow_26.png"],
               [1, "tooltip"],
               [1, "title"],
             ],
