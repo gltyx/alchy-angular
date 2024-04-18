@@ -199,7 +199,7 @@ var cnItems = {
     "ETERNAL REACTOR - Choose a Production": "永恒反应器--选择一个生产",
     "None available. You have to buy the first one in the upgrades tab.": "没有可用的。你必须在升级选项卡中购买第一个。",
     "total cost": "总计成本",
-    "Brew 3x as many flasks, but the duration is twice as long.": "啤酒3 x的玻璃瓶,但持续时间的两倍长。",
+    "Brew 3x as many flasks, but the duration is twice as long.": "酿造 3x 的烧瓶,但持续时间的两倍长。",
     "Dungeon Size": "地下城大小",
     "Enemy difficulty": "敌人难度",
     "explore": "探索",
